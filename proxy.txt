@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN,cdn.jsdelivr.net,Proxy  # jsDelivr
+  - DOMAIN,dns.msftncsi.com,Proxy  # Windows 连通性检测
+  - DOMAIN,ipv6.msftconnecttest.com,Proxy  # Windows 连通性检测
+  - DOMAIN,ipv6check-http.steamcontent.com,Proxy  # Steam 连通性检测
+  - DOMAIN,www.msftconnecttest.com,Proxy  # Windows 连通性检测
