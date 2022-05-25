@@ -5,3 +5,4 @@ payload:
   - DOMAIN,ipv6check-http.steamcontent.com  # Steam 连通性检测
   - DOMAIN,www.msftconnecttest.com  # Windows 连通性检测
   - DOMAIN-SUFFIX,glados-config.org  # GLaDOS
+  - DOMAIN-SUFFIX,rikka.app
