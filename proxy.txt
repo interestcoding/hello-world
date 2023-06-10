@@ -6,3 +6,4 @@ payload:
   - DOMAIN,www.msftconnecttest.com  # Windows 连通性检测
   - DOMAIN-SUFFIX,glados-config.org  # GLaDOS
   - DOMAIN-SUFFIX,rikka.app  # Rikka Apps
+  - DOMAIN-SUFFIX,bing.com  # Bing
