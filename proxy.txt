@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,23img.com  # 图说图床
   - DOMAIN,cdn.jsdelivr.net  # jsDelivr
   - DOMAIN,dns.msftncsi.com  # Windows 连通性检测
   - DOMAIN,ipv6.msftconnecttest.com  # Windows 连通性检测
