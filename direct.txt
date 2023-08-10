@@ -5,4 +5,3 @@ payload:
   - DOMAIN-SUFFIX,ros-bot.com  # ROS-BOT
   - DOMAIN-SUFFIX,steamcontent.com  # Steam 下载
   - DOMAIN-SUFFIX,yeduku.com  # 夜读库(小说)
-  
