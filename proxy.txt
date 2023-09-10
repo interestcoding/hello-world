@@ -7,7 +7,6 @@ payload:
 
   - DOMAIN-SUFFIX,23img.com  # 图说图床
   - DOMAIN-SUFFIX,bing.com  # Bing
-  - DOMAIN-SUFFIX,glados-config.org  # GLaDOS
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,rikka.app  # Rikka Apps
   - DOMAIN-SUFFIX,test-ipv6.com
