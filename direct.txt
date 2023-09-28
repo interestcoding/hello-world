@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,789zy.cc  # 努努影院
   - DOMAIN-SUFFIX,cdtlas.com  # 努努影院
+  - DOMAIN-SUFFIX,glados-config.com  # GLaDOS Config
   - DOMAIN-SUFFIX,kuaibofang.com  # 电影先生
   - DOMAIN-SUFFIX,ros-bot.com  # ROS-BOT
   - DOMAIN-SUFFIX,steamcontent.com  # Steam 下载
