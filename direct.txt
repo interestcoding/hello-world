@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,kr.cdn.blizzard.com  # 台服下载
+
   - DOMAIN-SUFFIX,789zy.cc  # 努努影院
   - DOMAIN-SUFFIX,4d4y.com  # Hi-PDA
   - DOMAIN-SUFFIX,cdtlas.com  # 努努影院
