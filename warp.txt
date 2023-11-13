@@ -1,2 +1,4 @@
 payload:
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,sentry.io
