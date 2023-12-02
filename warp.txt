@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN,challenges.cloudflare.com
+  - DOMAIN,sydney.bing.com
+
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,sentry.io
