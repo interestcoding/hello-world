@@ -3,5 +3,6 @@ payload:
   - DOMAIN,sydney.bing.com
 
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,sentry.io
