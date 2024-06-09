@@ -1,5 +1,7 @@
 payload:
-  - DOMAIN,kr.cdn.blizzard.com  # 台服下载
+  - DOMAIN,blizzard.gcdn.cloudn.co.kr  # 暴雪战网台服下载
+  - DOMAIN,level3.blizzard.com  # 暴雪战网台服下载
+  - DOMAIN,kr.cdn.blizzard.com  # 暴雪战网台服下载
 
   - DOMAIN-SUFFIX,789zy.cc  # 努努影院
   - DOMAIN-SUFFIX,4d4y.com  # Hi-PDA
