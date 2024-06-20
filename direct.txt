@@ -1,4 +1,6 @@
 payload:
+  - PROCESS-NAME,wow.exe  # 魔兽世界
+
   - DOMAIN,blizzard.gcdn.cloudn.co.kr  # 暴雪战网台服下载
   - DOMAIN,level3.blizzard.com  # 暴雪战网台服下载
   - DOMAIN,kr.cdn.blizzard.com  # 暴雪战网台服下载
