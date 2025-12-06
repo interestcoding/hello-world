@@ -1,5 +1,4 @@
 payload:
-  - PROCESS-NAME,SC2_x64.exe  # 星际2
   - DOMAIN,cdn.jsdelivr.net  # jsDelivr
   - DOMAIN,ipv6.msftconnecttest.com  # Windows 连通性检测
   - DOMAIN,www.msftconnecttest.com  # Windows 连通性检测
