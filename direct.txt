@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,AC4BFSP.exe  # 刺客信条黑旗
   - DOMAIN,blizzard.gcdn.cloudn.co.kr  # 暴雪战网台服下载
   - DOMAIN,level3.blizzard.com  # 暴雪战网台服下载
   - DOMAIN,kr.cdn.blizzard.com  # 暴雪战网台服下载
