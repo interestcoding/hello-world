@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,789zy.cc  # 努努影院
   - DOMAIN-SUFFIX,4d4y.com  # Hi-PDA
   - DOMAIN-SUFFIX,bittorrent.com  # BT
+  - DOMAIN-SUFFIX,byvoid.com  # BYVoid Blog
   - DOMAIN-SUFFIX,cdtlas.com  # 努努影院
   - DOMAIN-SUFFIX,cilifei.cc  # 磁力飞
   - DOMAIN-SUFFIX,cilifei.com  # 磁力飞
